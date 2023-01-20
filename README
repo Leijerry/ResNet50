@@ -1,0 +1,3 @@
+This ELEC874 project is based on https://github.com/AruniRC/resnet-face-pytorch#pytorch-resnet-on-vggface2 and modified
+MTCNN is used for preprocessing VGGFace2(including detection and cropping)
+Please refer to my report for details
